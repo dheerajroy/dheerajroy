@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dheerajroyhere" target="blank"><img src="https://img.shields.io/twitter/follow/dheerajroyhere?logo=twitter&style=for-the-badge" alt="dheerajroyhere" /></a> </p>
 
-- 💬 Ask me about **Python, Django, Web Development, Machine Learning and Marketing**
+- 💬 Ask me about **Python, Django, Web Development, Machine Learning, Blockchain and Marketing**
 
 - 📫 How to reach me **dhiraajroy123@gmail.com**
 
