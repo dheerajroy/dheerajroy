@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dhiraajroy123@gmail.com**
 
-- 📄 Know about my experiences [founder.istiva.world](founder.istiva.world)
+- 📄 Know about my experiences [founder.istiva.world](https://founder.istiva.world)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
