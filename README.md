@@ -1,6 +1,6 @@
 ![](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 # 💫 About Me:
-► full-stack, blockchain, ML, automation, marketing and much more<br>► One of the top 40 students selected for the GDC Software Engineering Fellowship Program in the year 2021<br>► founder of [istiva.world](https://istiva.world)<br>► fun fact: I can do anything
+► full-stack, blockchain, ML, automation, marketing and much more<br>► One of the 40 students selected for the GDC Software Engineering Fellowship Program in the year 2021<br>► founder of [istiva.world](https://istiva.world)<br>► fun fact: I can do anything
 
 
 ## 🌐 Socials:
