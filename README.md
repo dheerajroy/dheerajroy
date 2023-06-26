@@ -30,7 +30,9 @@ class Dheeraj:
                 'Open CV',
                 'Beautiful Soup',
                 'Express js',
-                'Hardhat'
+                'Hardhat',
+                'Bootstrap',
+                'Tailwind CSS'
             ],
             'databases': [
                 'MongoDB',
