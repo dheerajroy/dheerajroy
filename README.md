@@ -2,9 +2,14 @@
 class Dheeraj:
     def __init__(self):
         self.full_name = 'D Dheeraj'
+        self.age = 20
         self.role = [
             'Founder of istiva.world',
             'Full-stack developer'
+        ]
+        self.achievements = [
+            'One of the 40 students selected for the GDC Software Engineering Fellowship Program in India in the year 2021',
+            'Certified Python developer in the year 2019'
         ]
         self.skills = {
             'languages': [
@@ -21,7 +26,7 @@ class Dheeraj:
                 'React js',
                 'NumPy',
                 'Pandas',
-                'scikit-learn',
+                'Scikit-learn',
                 'Open CV',
                 'Beautiful Soup',
                 'Express js',
