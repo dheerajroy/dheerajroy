@@ -4,7 +4,7 @@ class Dheeraj:
         self.full_name = 'D Dheeraj'
         self.age = 20
         self.role = [
-            'Founder of istiva.world',
+            'Founder of groovito.com',
             'Full-stack developer'
         ]
         self.achievements = [
