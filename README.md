@@ -52,6 +52,7 @@ class Dheeraj:
         }
         self.hobbies = [
             'Coding',
+            'Analysing businesses/companies',
             'Playing cricket, basketball, etc',
             'Reading self development books'
         ]
