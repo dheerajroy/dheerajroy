@@ -4,7 +4,6 @@ class Dheeraj:
         self.full_name = 'D Dheeraj'
         self.age = 20
         self.role = [
-            'Founder of groovito.com',
             'Full-stack developer'
         ]
         self.achievements = [
@@ -15,6 +14,7 @@ class Dheeraj:
             'languages': [
                 'Python',
                 'JavaScript',
+                'TypeScript',
                 'Solidity',
                 'C/C++',
                 'Java',
@@ -23,7 +23,9 @@ class Dheeraj:
             ],
             'frameworks/libraries': [
                 'Django',
-                'React js',
+                'FastAPI',
+                'Flask',
+                'React js/Next js',
                 'NumPy',
                 'Pandas',
                 'Scikit-learn',
@@ -36,7 +38,8 @@ class Dheeraj:
             ],
             'databases': [
                 'MongoDB',
-                'Neo4j'
+                'Neo4j',
+                'MySQL'
             ],
             'platforms': [
                 'FireBase',
