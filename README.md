@@ -2,7 +2,7 @@
 class Dheeraj:
     def __init__(self):
         self.full_name = 'D Dheeraj'
-        self.age = 20
+        self.age = 22
         self.role = [
             'Full-stack developer'
         ]
@@ -49,7 +49,8 @@ class Dheeraj:
                 'Pycharm',
                 'Eclipse',
                 'Heroku',
-                'DigitalOcean'
+                'DigitalOcean',
+                'Azure'
             ]
         }
         self.hobbies = [
