@@ -2,7 +2,7 @@
 class Dheeraj:
     def __init__(self):
         self.full_name = 'D Dheeraj'
-        self.age = 22
+        self.age = 23
         self.role = [
             'Full-stack developer'
         ]
@@ -14,6 +14,7 @@ class Dheeraj:
         self.skills = {
             'languages': [
                 'Python',
+                'Go',
                 'JavaScript',
                 'TypeScript',
                 'Solidity',
