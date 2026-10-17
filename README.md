@@ -4,7 +4,7 @@ class Dheeraj:
         self.full_name = 'D Dheeraj'
         self.age = 23
         self.role = [
-            'Full-stack developer'
+            'Software Engineer'
         ]
         self.achievements = [
             'One of the 40 students selected for the GDC Software Engineering Fellowship Program in India in the year 2021',
